@@ -1,0 +1,3 @@
+= Adventofcode 2022
+
+Solutions for adventofcode 2022, with my inputs
