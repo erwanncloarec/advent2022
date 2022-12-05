@@ -3,4 +3,6 @@
 members = [
     "advent01",
     "advent02",
+    "advent03",
+    "advent04",
 ]
