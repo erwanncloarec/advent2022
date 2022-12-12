@@ -1,0 +1,13 @@
+$ cd /
+$ ls
+dir a
+dir b
+10 nrwjb
+20 qqvdcclf
+$ cd a
+$ ls
+50 qqvdcclf
+$ cd ..
+$ cd b
+$ ls
+10 toto
